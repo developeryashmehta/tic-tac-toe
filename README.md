@@ -39,6 +39,10 @@ To run this game locally, follow these steps:
 - The game ends when one player wins by getting three marks in a row, column, or diagonal, or when the board is full (draw).
 - Players can rematch the game at the end of game clicking the "Rematch" button.
 
+## View Application
+
+https://developeryashmehta.github.io/tic-tac-toe/
+
 ## Contributing
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
